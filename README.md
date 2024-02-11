@@ -2,7 +2,6 @@
 - 📚 Atualmente curso Análise e Desenvolvimento de Sistemas.
 - 💻 Estudando Desenvolvimento Web.
 
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brenoxs99&theme=tokyonight" />
 </a>
@@ -17,4 +16,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-##
