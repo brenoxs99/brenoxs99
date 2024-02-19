@@ -1,6 +1,7 @@
 ## Eai pessoal, tudo traquilo? Bem vindo ao meu repostório.
 - 📚 Atualmente curso Análise e Desenvolvimento de Sistemas.
 - 💻 Estudando Desenvolvimento Web.
+- 🕵️‍♂️ Cyber Security.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenoxs99&theme=tokyonight" />
