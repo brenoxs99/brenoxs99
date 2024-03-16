@@ -3,7 +3,7 @@
 - 💻 Estudando Desenvolvimento Web.
 - 🕵️‍♂️ Cyber Security.
 
-<a href="https://github.com/brenoxs99/![Anurag's GitHub stats]">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenoxs99&theme=algolia&icons=true" />
 </a>
 <a href="https://github.com/brenoxs99/convoychat">
