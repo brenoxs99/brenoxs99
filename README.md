@@ -3,11 +3,11 @@
 - 💻 Estudando Desenvolvimento Web.
 - 🕵️‍♂️ Cyber Security.
 
-<a href="https://github.com/brenoxs99/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenoxs99&theme=tokyonight" />
+<a href="https://github.com/brenoxs99/![Anurag's GitHub stats]">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenoxs99&theme=algolia&icons=true" />
 </a>
 <a href="https://github.com/brenoxs99/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoxs99&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoxs99&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
 <div style="display: inline_block""><br>
