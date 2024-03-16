@@ -15,5 +15,5 @@
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breno-Python" height="38" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" >
+  <img align="center" alt="Breno-CSS" height="46" width="47" src="https://raw.githubusercontent.com/brenoxs99/cheats-gta-sanandreas/main/img/icone.svg">
 </div>
