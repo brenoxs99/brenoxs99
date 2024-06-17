@@ -1,6 +1,6 @@
 ## Eai pessoal, tudo traquilo? Bem vindo ao meu repostório.
-- 📚 Atualmente curso Análise e Desenvolvimento de Sistemas.
-- 💻 Estudando Desenvolvimento Web.
+- 📚 Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvimento Web.
 - 🕵️‍♂️ Cyber Security.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
