@@ -17,3 +17,9 @@
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
   <img align="center" alt="Breno-CSS" height="46" width="47" src="https://raw.githubusercontent.com/brenoxs99/cheats-gta-sanandreas/main/img/icone.svg" title="Java">
 </div>
+
+##
+
+<div> 
+  ![Snake animation](https://github.com/aureliodeboa/aurelio-output/blob/main/github-contribution-grid-snake.svg)
+</div>
