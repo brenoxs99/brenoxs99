@@ -21,5 +21,5 @@
 ##
 
 <div> 
-  ![Snake animation](https://github.com/aureliodeboa/aurelio-output/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/brenoxs99/aurelio-output/blob/main/github-contribution-grid-snake.svg)
 </div>
