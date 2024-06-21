@@ -20,7 +20,5 @@
   <img align="center" alt="Breno-Git" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" title="Git">
 </div>
 
-##
-
 ![snake gif](https://github.com/brenoxs99/brenoxs99/blob/output/github-contribution-grid-snake.svg)
  
