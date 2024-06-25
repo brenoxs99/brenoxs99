@@ -1,4 +1,4 @@
-## Eai pessoal, tudo traquilo? Bem vindo ao meu repostório.
+## Bem vindo ao meu repostório.
 - 📚 Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvimento Web.
 - 🕵️‍♂️ Cyber Security.
