@@ -2,12 +2,8 @@
 - 📚 Análise e Desenvolvimento de Sistemas.
 - 🕵️‍♂️ Segurança da Informação.
 
-<a href="https://github.com/brenolx/github-readme-stats"><br>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenolx&theme=algolia&icons=true" />
-</a>
-<a href="https://github.com/brenolx/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenolx&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
+<a href="https://breno-ti.site">Acesse meu Site Aqui!</a>
+
 
 <!-->
 
